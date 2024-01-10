@@ -1,5 +1,5 @@
 import { Phone } from '@phosphor-icons/react';
-import BRAND_NAME from '../utils/Constants';
+import BRAND_NAME from '../../src/utils/constants';
 
 function Brand() {
   return (

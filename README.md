@@ -1,6 +1,6 @@
 # Aircall
 
-A small react project which gets the data of calls from the remote server using API and then displays it on the classic phone UI.
+A small react project which gets the data of calls from the remote server using API and then displays it on the classic phone UI. Built with React Context API and React Router.
 
 ## The app will have the following features:
 
